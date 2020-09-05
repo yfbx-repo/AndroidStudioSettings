@@ -1,0 +1,26 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
+      <mapping pattern="NetContainer" type="PLAIN_TEXT" />
+      <mapping pattern="pay_cycle" type="PLAIN_TEXT" />
+      <mapping pattern="span_text" type="PLAIN_TEXT" />
+      <mapping pattern="button_stroke" type="PLAIN_TEXT" />
+      <mapping pattern="item_section" type="PLAIN_TEXT" />
+      <mapping pattern="tab_row" type="PLAIN_TEXT" />
+      <mapping pattern="RoomItemRow" type="PLAIN_TEXT" />
+      <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping pattern="MyProvider" type="PLAIN_TEXT" />
+      <mapping pattern="refresh_provider" type="PLAIN_TEXT" />
+      <mapping pattern="Settings" type="PLAIN_TEXT" />
+      <mapping pattern="title_text" type="PLAIN_TEXT" />
+      <mapping pattern="title_middle" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="Specification" />
+    </extensionMap>
+  </component>
+</application>
