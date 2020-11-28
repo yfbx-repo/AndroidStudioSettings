@@ -20,7 +20,6 @@
       <mapping pattern="title_middle" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="md" approved="true" type="Specification" />
     </extensionMap>
   </component>
