@@ -2,11 +2,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Workspace/yuxiaor/app/src/main/res/drawable/round_32_solid_black_alpha.xml" value="0.39814814814814814" />
         <entry key="..\:/Workspace/yuxiaor/app/src/main/res/layout/activity_meter_check_list.xml" value="0.2807971014492754" />
         <entry key="..\:/Workspace/yuxiaor/app/src/main/res/layout/elelment_item_select_image.xml" value="0.2807971014492754" />
         <entry key="..\:/Workspace/yuxiaor/app/src/main/res/layout/element_building_style.xml" value="0.2807971014492754" />
         <entry key="..\:/Workspace/yuxiaor/app/src/main/res/layout/element_image_preview_selector.xml" value="0.2807971014492754" />
         <entry key="..\:/Workspace/yuxiaor/app/src/main/res/layout/element_image_seletor.xml" value="0.2807971014492754" />
+        <entry key="..\:/Workspace/yuxiaor/app/src/main/res/layout/item_element_image_preview_selector.xml" value="0.38472222222222224" />
         <entry key="..\:/demos/JetpackComposeDemo/app/src/main/res/layout/activity_main.xml" value="0.41822916666666665" />
       </map>
     </option>
