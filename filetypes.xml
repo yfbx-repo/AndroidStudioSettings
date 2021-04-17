@@ -18,6 +18,7 @@
       <mapping pattern="MyProvider" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="property" type="PLAIN_TEXT" />
       <removed_mapping ext="md" approved="true" type="Specification" />
     </extensionMap>
   </component>
