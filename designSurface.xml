@@ -2,7 +2,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Workspace/Renter_Android/renter/src/main/res/layout/activity_about_mogo.xml" value="0.3398148148148148" />
+        <entry key="..\:/Workspace/Renter_Android/renter/src/main/res/layout/activity_feedback.xml" value="0.3398148148148148" />
         <entry key="..\:/Workspace/Renter_Android/renter/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Workspace/Renter_Android/renter/src/main/res/layout/activity_push_setting.xml" value="0.3398148148148148" />
         <entry key="..\:/Workspace/Renter_Android/renter/src/main/res/layout/activity_setting.xml" value="0.3398148148148148" />
         <entry key="..\:/Workspace/Renter_Android/renter/src/main/res/layout/activity_splash.xml" value="0.4698919197117859" />
         <entry key="..\:/Workspace/baidu_map/android/src/main/res/layout/view_position.xml" value="0.33796296296296297" />
